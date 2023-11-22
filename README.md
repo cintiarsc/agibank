@@ -1,5 +1,5 @@
 # agibank
-Sample project for an evaluation.
+teste
 
 # Pre-requirements
 It is required to have Node.js and npm installed to run this project.
